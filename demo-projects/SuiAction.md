@@ -3,28 +3,25 @@
 ## Basic Information
 
 ### Project Name or Logo
-
-Example
+SuiAction
 
 ### Project Website
 
-www.example.com
+Will be updated 
 
 ### Team Members
 
-Example
+[Kay Tran](https://github.com/chauanhtuan185)
+[Harry Phan](https://github.com/hien-p)
 
 ### Presenter Telegram
-
-Example
+👀👀
 
 ### GitHub Repository
 
-Example
 
 ## Project Description 
-
-Example
+The original idea of SuiAction is to create a platform for users to interact with Sui through their link.
 
 ## Eligibility
 
